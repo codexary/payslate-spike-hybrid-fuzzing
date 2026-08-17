@@ -19,6 +19,12 @@ pip install -r requirements.txt
 python3 concolic.py
 ```
 
+`compare.py` puts the loop next to random single-byte mutation on the same gate, from the same seed, with a fixed PRNG seed:
+
+```sh
+python3 compare.py
+```
+
 ## About this repository
 
 Elsworne, Payslate and the team are fictional.

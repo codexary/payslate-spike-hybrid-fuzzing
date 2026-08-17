@@ -12,6 +12,12 @@ pip install -r requirements.txt
 python3 concolic.py
 ```
 
+`compare.py` 在同一道门、同一个种子上，把这个循环和随机单字节变异放在一起比，随机数种子固定：
+
+```sh
+python3 compare.py
+```
+
 ## 关于本仓库
 
 Elsworne、Payslate 和团队成员均为虚构。
