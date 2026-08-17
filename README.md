@@ -25,6 +25,8 @@ python3 concolic.py
 python3 compare.py
 ```
 
+The findings are in [FINDINGS.md](FINDINGS.md).
+
 ## About this repository
 
 Elsworne, Payslate and the team are fictional.

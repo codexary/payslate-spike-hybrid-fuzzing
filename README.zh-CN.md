@@ -18,6 +18,8 @@ python3 concolic.py
 python3 compare.py
 ```
 
+结论见 [FINDINGS.zh-CN.md](FINDINGS.zh-CN.md)。
+
 ## 关于本仓库
 
 Elsworne、Payslate 和团队成员均为虚构。
